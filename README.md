@@ -17,8 +17,7 @@ Only support Windows systems.
 
 
 ## Screenshot:
--![alt text](http://blog.adv-ci.com/wp-content/uploads/2013/05/Screenshot-2D-SLAM-1.png "Screenshot 1")
--![alt text](http://blog.adv-ci.com/wp-content/uploads/2013/05/Screenshot-2D-SLAM.png "Screenshot 2")
+-![alt text](https://raw.githubusercontent.com/bushuhui/pyKanjiDict/master/screen_shot.png "Screenshot 1")
 
 
 ## Project homepage:

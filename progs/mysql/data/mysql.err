@@ -58,3 +58,11 @@ Version: '4.1.7'  socket: ''  port: 3306  Source distribution
 141204  9:29:02  InnoDB: Shutdown completed; log sequence number 0 43644
 141204  9:29:02 [Note] F:\tem\programs\kanjiDict\progs\mysql\bin\mysqld.exe: Shutdown complete
 
+F:\tem\programs\kanjiDict\progs\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.7'  socket: ''  port: 3306  Source distribution
+141204  9:53:37 [Note] F:\tem\programs\kanjiDict\progs\mysql\bin\mysqld.exe: Normal shutdown
+
+141204  9:53:37  InnoDB: Starting shutdown...
+141204  9:53:39  InnoDB: Shutdown completed; log sequence number 0 43644
+141204  9:53:39 [Note] F:\tem\programs\kanjiDict\progs\mysql\bin\mysqld.exe: Shutdown complete
+
