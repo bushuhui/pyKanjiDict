@@ -1,0 +1,60 @@
+D:\Programs\webdict\progs\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.7'  socket: ''  port: 3306  Source distribution
+060403 18:01:56 [Note] D:\Programs\webdict\progs\mysql\bin\mysqld.exe: Normal shutdown
+
+060403 18:01:57  InnoDB: Starting shutdown...
+060403 18:01:59  InnoDB: Shutdown completed; log sequence number 0 43644
+060403 18:01:59 [Note] D:\Programs\webdict\progs\mysql\bin\mysqld.exe: Shutdown complete
+
+D:\Programs\webdict\progs\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.7'  socket: ''  port: 3306  Source distribution
+060404 22:25:12 [Note] D:\Programs\webdict\progs\mysql\bin\mysqld.exe: Normal shutdown
+
+060404 22:25:12  InnoDB: Starting shutdown...
+060404 22:25:14  InnoDB: Shutdown completed; log sequence number 0 43644
+060404 22:25:14 [Note] D:\Programs\webdict\progs\mysql\bin\mysqld.exe: Shutdown complete
+
+D:\Programs\webdict\progs\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.7'  socket: ''  port: 3306  Source distribution
+060407 20:56:33 [Note] D:\Programs\webdict\progs\mysql\bin\mysqld.exe: Normal shutdown
+
+060407 20:56:33  InnoDB: Starting shutdown...
+060407 20:56:35  InnoDB: Shutdown completed; log sequence number 0 43644
+060407 20:56:35 [Note] D:\Programs\webdict\progs\mysql\bin\mysqld.exe: Shutdown complete
+
+D:\Programs\webdict\progs\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.7'  socket: ''  port: 3306  Source distribution
+061004 10:24:33 [Note] D:\Programs\webdict\progs\mysql\bin\mysqld.exe: Normal shutdown
+
+061004 10:24:33  InnoDB: Starting shutdown...
+061004 10:24:35  InnoDB: Shutdown completed; log sequence number 0 43644
+061004 10:24:35 [Note] D:\Programs\webdict\progs\mysql\bin\mysqld.exe: Shutdown complete
+
+D:\Programs\webdict\progs\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.7'  socket: ''  port: 3306  Source distribution
+070317 16:52:44 [Note] D:\Programs\webdict\progs\mysql\bin\mysqld.exe: Normal shutdown
+
+070317 16:52:44  InnoDB: Starting shutdown...
+070317 16:52:46  InnoDB: Shutdown completed; log sequence number 0 43644
+070317 16:52:46 [Note] D:\Programs\webdict\progs\mysql\bin\mysqld.exe: Shutdown complete
+
+C:\webdict\progs\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.7'  socket: ''  port: 3306  Source distribution
+F:\tem\programs\webdict\progs\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.7'  socket: ''  port: 3306  Source distribution
+141204  9:16:37 [Note] F:\tem\programs\webdict\progs\mysql\bin\mysqld.exe: Normal shutdown
+
+141204  9:16:37  InnoDB: Starting shutdown...
+141204  9:16:39  InnoDB: Shutdown completed; log sequence number 0 43644
+141204  9:16:39 [Note] F:\tem\programs\webdict\progs\mysql\bin\mysqld.exe: Shutdown complete
+
+F:\tem\programs\kanjiDict\progs\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.7'  socket: ''  port: 3306  Source distribution
+F:\tem\programs\kanjiDict\progs\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.7'  socket: ''  port: 3306  Source distribution
+141204  9:29:00 [Note] F:\tem\programs\kanjiDict\progs\mysql\bin\mysqld.exe: Normal shutdown
+
+141204  9:29:00  InnoDB: Starting shutdown...
+141204  9:29:02  InnoDB: Shutdown completed; log sequence number 0 43644
+141204  9:29:02 [Note] F:\tem\programs\kanjiDict\progs\mysql\bin\mysqld.exe: Shutdown complete
+
